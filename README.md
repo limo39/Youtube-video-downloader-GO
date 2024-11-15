@@ -8,12 +8,7 @@ A simple command-line application written in Go that allows users to download Yo
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example](#example)
-- [Code Overview](#code-overview)
-- [Notes](#notes)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Features
 
@@ -42,7 +37,7 @@ A simple command-line application written in Go that allows users to download Yo
    ```sh
    go get github.com/kkdai/youtube
 
-##Usage
+## Usage
 1. Run the script:
    ```sh
    go run main.go
